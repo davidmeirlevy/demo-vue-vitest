@@ -1,0 +1,6 @@
+// Vitest Snapshot v1
+
+exports[`HelloWorld > should show 1 in counter 1`] = `
+"<h1 data-v-469af010=\\"\\">my test</h1>
+<button type=\\"button\\" data-v-469af010=\\"\\">count is: 1</button>"
+`;
